@@ -20,7 +20,7 @@ reddit = praw.Reddit(
     user_agent="chat_scrapper by u/YourUsername"
 )
 
-groq_client = Groq(api_key="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")
+groq_client = Groq(api_key="")
 nlp = spacy.load("en_core_web_sm", disable=["parser", "ner"])
 
 # ========== FUNNEL SCHEMA ==========
