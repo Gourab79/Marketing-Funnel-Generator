@@ -10,3 +10,5 @@ groq==0.13.0
 langchain-core==0.3.51
 pydantic==2.10.5
 scikit-learn==1.6.1
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl
+
