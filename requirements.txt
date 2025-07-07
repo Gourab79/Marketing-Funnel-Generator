@@ -1,6 +1,6 @@
 praw==7.8.1
-spacy==3.7.4              # ✅ Compatible version
-en-core-web-sm==3.7.1     # ✅ Compatible with spacy 3.7.x
+spacy==3.8.7
+en-core-web-sm     # ✅ Compatible with spacy 3.7.x
 pandas==2.3.0
 matplotlib==3.8.4
 groq==0.13.0
